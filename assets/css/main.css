@@ -1,0 +1,85 @@
+
+/* ========== Polices ========== */
+@font-face {
+  font-family: 'Okular Code';
+  src: url('/fonts/RaphaelaHaefliger_Okular-Code.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Okular Comment';
+  src: url('/fonts/RaphaelaHaefliger_Okular-Comment.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Okular Syntax';
+  src: url('/fonts/RaphaelaHaefliger_Okular-Syntax.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ========== Reset & Body ========== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: none;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: 'Okular Comment', sans-serif;
+  background: #fff;
+  color: #111;
+}
+
+a {
+  color: #6D0016;
+  text-decoration: underline;
+}
+
+/* ========== Curseur personnalisé ========== */
+
+.inner-cursor,
+.outer-cursor {
+  position: fixed;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 10000;
+}
+
+.inner-cursor {
+  width: 10px;
+  height: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 50%;
+  transition: width 0.2s, height 0.2s;
+}
+
+.outer-cursor {
+  width: 25px;
+  height: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  border-radius: 50%;
+  transition: width 0.2s, height 0.2s, border-width 0.2s;
+}
+
+/* Rétrécir le curseur sur éléments cliquables */
+.cursor-hover .inner-cursor,
+.cursor-hover .outer-cursor {
+  width: 6px;
+  height: 6px;
+}
+
+@media (pointer:coarse) {
+            .inner-cursor, .outer-cursor {
+              display: none;
+            }
+        }

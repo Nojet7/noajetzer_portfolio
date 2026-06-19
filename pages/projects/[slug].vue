@@ -30,7 +30,7 @@ const prev = () => {
     (currentIndex.value - 1 + images.length) % images.length
 }
 
-const currentSrc = computed(() => images[currentIndex.value])
+const currentSrc = computed(() => imageUrls.value[currentIndex.value])
 
 const isVideo = computed(() =>
   /\.(mp4|mov|webm)$/i.test(currentSrc.value)
@@ -41,7 +41,7 @@ const screenWidth = ref(0)
 
 const updateWidth = () => {
   screenWidth.value = window.innerWidth
-  if(screenWidth.value < 784) {
+  if (screenWidth.value < 784) {
     readMoreState.value = true
   }
 }
@@ -55,9 +55,31 @@ function readLess() {
   readMoreState.value = false
 }
 
-onMounted(() => {
+onMounted(async () => {
   updateWidth()
+  await preloadImages()
 })
+
+/* --------------- GET CLOUDINARY IMAGE ---------------- */
+const { resolve: resolveImage } = useCloudinaryImage()
+
+const imageUrls = ref([])
+const isReady = ref(false)
+
+async function preloadImages() {
+  const promises = project.photos.map(async (src) => {
+    const url = await resolveImage(src)
+
+    // preload réel navigateur
+    const img = new Image()
+    img.src = url
+
+    return url
+  })
+
+  imageUrls.value = await Promise.all(promises)
+  isReady.value = true
+}
 </script>
 
 <template>
@@ -67,10 +89,9 @@ onMounted(() => {
 
       <div class="viewport">
         <transition-group :name="direction === 'next' ? 'slide' : 'slide-prev'" tag="div" class="track">
-          <img v-if="!isVideo" class="project-image" :src="`../${images[currentIndex]}`" :alt="project.title"
-            :key="currentIndex" />
-          <video v-if="isVideo" class="project-image" :src="`../${images[currentIndex]}`" :alt="project.title"
-            :key="currentIndex" autoplay playsinline muted loop></video>
+          <img v-if="!isVideo" class="project-image" :src="currentSrc" :alt="project.title" :key="currentIndex" />
+          <video v-if="isVideo" class="project-image" :src="currentSrc" :alt="project.title" :key="currentIndex" autoplay
+            playsinline muted loop></video>
         </transition-group>
       </div>
 

@@ -30,13 +30,45 @@ const updateClock = () => {
         timeZone: 'Europe/Zurich'
     })
 }
-onMounted(() => {
+onMounted(async () => {
     updateClock()
     intervalId = setInterval(updateClock, 1000)
+
+    await preloadThumbnails()
 })
 onUnmounted(() => {
     clearInterval(intervalId)
 })
+
+
+/* --------------- GET CLOUDINARY IMAGE ---------------- */
+const { resolve: resolveImage } = useCloudinaryImage()
+const imageCache = new Map()
+
+async function getImage(src) {
+    if (imageCache.has(src)) return imageCache.get(src)
+
+    const url = await resolveImage(src)
+
+    const img = new Image()
+    img.src = url
+
+    imageCache.set(src, url)
+
+    return url
+}
+
+const thumbnails = ref({})
+async function preloadThumbnails() {
+    const all = projects.value.map(async (p) => {
+        const src = p.photos[0]
+        const url = await getImage(src)
+
+        thumbnails.value[p.slug] = url
+    })
+
+    await Promise.all(all)
+}
 </script>
 
 <template>
@@ -51,7 +83,7 @@ onUnmounted(() => {
                 <div v-for="(project, id) in col1Projects" :key="project.slug" class="project-card-container"
                     :style="{ marginBottom: `${getRandomMargin(id, col1Projects.length)}px` }">
                     <nuxt-link :to="`/projects/${project.slug}`" class="project-card-thumbnail-container">
-                        <img class="project-card-thumbnail" loading="lazy" :src="project.photos[0]"
+                        <img class="project-card-thumbnail" loading="lazy" :src="thumbnails[project.slug]"
                             :alt="project.title">
                     </nuxt-link>
                     <nuxt-link :to="`/projects/${project.slug}`">
@@ -64,7 +96,7 @@ onUnmounted(() => {
                 <div v-for="(project, id) in col2Projects" :key="project.slug" class="project-card-container"
                     :style="{ marginBottom: `${getRandomMargin(id, col2Projects.length)}px` }">
                     <nuxt-link :to="`/projects/${project.slug}`" class="project-card-thumbnail-container">
-                        <img class="project-card-thumbnail" loading="lazy" :src="project.photos[0]"
+                        <img class="project-card-thumbnail" loading="lazy" :src="thumbnails[project.slug]"
                             :alt="project.title">
                     </nuxt-link>
                     <nuxt-link :to="`/projects/${project.slug}`">
@@ -78,7 +110,7 @@ onUnmounted(() => {
         <section class="mobile-portfolio-container">
             <div class="column-mobile-container">
                 <div v-for="(project) in projects" :key="project.slug" class="mobile-project-card-container">
-                    <nuxt-link :to="`/projects/${project.slug}`" :class="project-card-thumbnail-container">
+                    <nuxt-link :to="`/projects/${project.slug}`" :class="project - card - thumbnail - container">
                         <img class="project-card-thumbnail" loading="lazy" :src="project.photos[0]"
                             :alt="project.title">
                     </nuxt-link>
@@ -154,7 +186,8 @@ onUnmounted(() => {
     font-size: 0.7em;
 }
 
-.project-card-thumbnail, .project-card-thumbnail-container {
+.project-card-thumbnail,
+.project-card-thumbnail-container {
     max-width: 100%;
     max-height: 100%;
 }

@@ -8,22 +8,27 @@ export default defineNuxtConfig({
     head: {
       title: 'Noa Jetzer',
       meta: [
-        {name: 'description', content: 'Portfolio website for Noa Jetzer'}
+        { name: 'description', content: 'Portfolio website for Noa Jetzer' }
       ],
       link: [
-        { rel: 'icon', type: 'image/svg', href: '/N.jpg' },
+        { rel: 'icon', type: 'image/svg', href: '/N.svg' },
       ],
     }
   },
   css: ['~/assets/css/main.css'],
-  ssr: true,       
+  runtimeConfig: {
+    public: {
+      cloudinaryCloudName: process.env.NUXT_PUBLIC_CLOUDINARY_CLOUD_NAME
+    }
+  },
+  ssr: true,
   nitro: {
     preset: "static",
     prerender: {
       routes: [
         '/',
         ...data.projects.map(p => `/projects/${p.slug}`)
-      ]     
+      ]
     }
   }
 })

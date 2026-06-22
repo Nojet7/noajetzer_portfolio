@@ -663,15 +663,15 @@
     "projects": [
         {
             "photos": [
-                "images/projects/2022/3e_oeil_prope/Thumbnail_3oeil_1.jpg",
-                "images/projects/2022/3e_oeil_prope/3oeil_2.jpg",
-                "images/projects/2022/3e_oeil_prope/3oeil_3.jpg",
-                "images/projects/2022/3e_oeil_prope/3oeil_4.jpg",
-                "images/projects/2022/3e_oeil_prope/3oeil_5.jpg",
-                "images/projects/2022/3e_oeil_prope/3oeil_6.jpg",
-                "images/projects/2022/3e_oeil_prope/3oeil_7.jpg",
-                "images/projects/2022/3e_oeil_prope/3oeil_8.jpg",
-                "images/projects/2022/3e_oeil_prope/3oeil_9.jpg"
+                "2022/3e_oeil_prope/Thumbnail_3oeil_1.jpg",
+                "2022/3e_oeil_prope/3oeil_2.jpg",
+                "2022/3e_oeil_prope/3oeil_3.jpg",
+                "2022/3e_oeil_prope/3oeil_4.jpg",
+                "2022/3e_oeil_prope/3oeil_5.jpg",
+                "2022/3e_oeil_prope/3oeil_6.jpg",
+                "2022/3e_oeil_prope/3oeil_7.jpg",
+                "2022/3e_oeil_prope/3oeil_8.jpg",
+                "2022/3e_oeil_prope/3oeil_9.jpg"
             ],
             "title": "Third Eye",
             "slug": "third-eye",
@@ -683,17 +683,17 @@
         },
         {
             "photos": [
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Thumbnail_Valency_cheval.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_1.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Spread_1.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_ciel.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_2.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_3.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_4.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_arbre_1.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_arbre_2.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Spread_2.jpg",
-                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_5.jpg"
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Thumbnail_Valency_cheval.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_1.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Spread_1.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_ciel.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_2.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_3.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_4.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_arbre_1.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_arbre_2.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Spread_2.jpg",
+                "2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_5.jpg"
             ],
             "title": "Shaped Nature",
             "slug": "shaped-nature",
@@ -705,12 +705,12 @@
         },
         {
             "photos": [
-                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/thumbnail_Jules_1.jpg",
-                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_2.jpg",
-                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_1.mp4",
-                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_3.mp4",
-                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_3.jpg",
-                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_2.mp4"
+                "2023/1cvdg-1sem-L.Guyot-sequence2d/thumbnail_Jules_1.jpg",
+                "2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_2.jpg",
+                "2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_1.mp4",
+                "2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_3.mp4",
+                "2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_3.jpg",
+                "2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_2.mp4"
             ],
             "title": "Dans la Tête de Jules",
             "slug": "dans-la-tete-de-jules",
@@ -722,22 +722,22 @@
         },
         {
             "photos": [
-                "images/projects/2023/concours_entree_bachelor/Thumbnail_Bob_1.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_2.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_6.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_3.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_7.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_8.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_9.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_4.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_10.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_11.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_12.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_13.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_5.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_14.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_15.jpg",
-                "images/projects/2023/concours_entree_bachelor/Bob_16.jpg"
+                "2023/concours_entree_bachelor/Thumbnail_Bob_1.jpg",
+                "2023/concours_entree_bachelor/Bob_2.jpg",
+                "2023/concours_entree_bachelor/Bob_6.jpg",
+                "2023/concours_entree_bachelor/Bob_3.jpg",
+                "2023/concours_entree_bachelor/Bob_7.jpg",
+                "2023/concours_entree_bachelor/Bob_8.jpg",
+                "2023/concours_entree_bachelor/Bob_9.jpg",
+                "2023/concours_entree_bachelor/Bob_4.jpg",
+                "2023/concours_entree_bachelor/Bob_10.jpg",
+                "2023/concours_entree_bachelor/Bob_11.jpg",
+                "2023/concours_entree_bachelor/Bob_12.jpg",
+                "2023/concours_entree_bachelor/Bob_13.jpg",
+                "2023/concours_entree_bachelor/Bob_5.jpg",
+                "2023/concours_entree_bachelor/Bob_14.jpg",
+                "2023/concours_entree_bachelor/Bob_15.jpg",
+                "2023/concours_entree_bachelor/Bob_16.jpg"
             ],
             "title": "Bob",
             "slug": "bob",
@@ -749,14 +749,14 @@
         },
         {
             "photos": [
-                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Thumbnail_Cafe_1.jpg",
-                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_2.jpg",
-                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_3.jpg",
-                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_4.jpg",
-                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_5.jpg",
-                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_6.jpg",
-                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_7.jpg",
-                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_8.jpg"
+                "2023/Guy_Meldem-S-1-2023-1CVDG/Thumbnail_Cafe_1.jpg",
+                "2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_2.jpg",
+                "2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_3.jpg",
+                "2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_4.jpg",
+                "2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_5.jpg",
+                "2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_6.jpg",
+                "2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_7.jpg",
+                "2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_8.jpg"
             ],
             "title": "A guide to making good Italian coffee if you are a dog waiter",
             "slug": "a-guide-to-making-good-italian-coffee-if-you-are-a-dog-waiter",
@@ -768,10 +768,10 @@
         },
         {
             "photos": [
-                "images/projects/2023/Robert_Huber-S-2-2023-1CVDG/Thumbnail_King_1.jpg",
-                "images/projects/2023/Robert_Huber-S-2-2023-1CVDG/King_2.jpg",
-                "images/projects/2023/Robert_Huber-S-2-2023-1CVDG/King_video.mp4",
-                "images/projects/2023/Robert_Huber-S-2-2023-1CVDG/King_3.jpg"
+                "2023/Robert_Huber-S-2-2023-1CVDG/Thumbnail_King_1.jpg",
+                "2023/Robert_Huber-S-2-2023-1CVDG/King_2.jpg",
+                "2023/Robert_Huber-S-2-2023-1CVDG/King_video.mp4",
+                "2023/Robert_Huber-S-2-2023-1CVDG/King_3.jpg"
             ],
             "title": "King, Typography",
             "slug": "king-typography",
@@ -783,18 +783,18 @@
         },
         {
             "photos": [
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Thumbnail_Prelaz_1.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_2.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_3.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_4.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/copper08.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_6.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_7.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_8.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_9.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_10.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_11.jpg",
-                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_12.jpg"
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Thumbnail_Prelaz_1.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_2.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_3.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_4.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper08.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_6.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_7.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_8.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_9.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_10.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_11.jpg",
+                "2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_12.jpg"
             ],
             "title": "Play with the children of Prélaz",
             "slug": "play-with-the-children-of-prelaz",
@@ -806,13 +806,13 @@
         },
         {
             "photos": [
-                "images/projects/2023/violene_pont-2023/Thumbnail_Brocante_1.jpg",
-                "images/projects/2023/violene_pont-2023/Brocante_video.mp4",
-                "images/projects/2023/violene_pont-2023/Brocante_2.jpg",
-                "images/projects/2023/violene_pont-2023/Brocante_3.jpg",
-                "images/projects/2023/violene_pont-2023/Brocante_4.jpg",
-                "images/projects/2023/violene_pont-2023/Brocante_5.jpg",
-                "images/projects/2023/violene_pont-2023/Brocante_6.jpg"
+                "2023/violene_pont-2023/Thumbnail_Brocante_1.jpg",
+                "2023/violene_pont-2023/Brocante_video.mp4",
+                "2023/violene_pont-2023/Brocante_2.jpg",
+                "2023/violene_pont-2023/Brocante_3.jpg",
+                "2023/violene_pont-2023/Brocante_4.jpg",
+                "2023/violene_pont-2023/Brocante_5.jpg",
+                "2023/violene_pont-2023/Brocante_6.jpg"
             ],
             "title": "La Brocante",
             "slug": "la-brocante",
@@ -824,19 +824,19 @@
         },
         {
             "photos": [
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/Thumbnail_72Flyers_1.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_2.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_Poster.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_3.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_4.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_5.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_6.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_7.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_8.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_9.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_10.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_11.jpg",
-                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_12.jpg"
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/Thumbnail_72Flyers_1.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_2.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_Poster.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_3.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_4.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_5.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_6.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_7.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_8.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_9.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_10.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_11.jpg",
+                "2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_12.jpg"
             ],
             "title": "72 Flyers",
             "slug": "72-flyers",
@@ -848,17 +848,17 @@
         },
         {
             "photos": [
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/Thumbnail_FreakShows_1.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_2.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_3.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_4.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_5.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_6.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Poster_1.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Poster_2.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_7.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_8.jpg",
-                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Video.mp4"
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/Thumbnail_FreakShows_1.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_2.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_3.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_4.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_5.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_6.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Poster_1.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Poster_2.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_7.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_8.jpg",
+                "2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Video.mp4"
             ],
             "title": "The Greatest Show on Earth!(?), Freak Shows Through Headlines",
             "slug": "the-greatest-show-on-earth-freak-shows-through-headlines",
@@ -870,13 +870,13 @@
         },
         {
             "photos": [
-                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Thumbnail_Cat_1.jpg",
-                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_video_1.mp4",
-                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_2.jpg",
-                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_3.jpg",
-                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_video_2.mp4",
-                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_4.jpg",
-                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_5"
+                "2024/elodie_anglade-S-2-2024-1CVDG/Thumbnail_Cat_1.jpg",
+                "2024/elodie_anglade-S-2-2024-1CVDG/Cat_video_1.mp4",
+                "2024/elodie_anglade-S-2-2024-1CVDG/Cat_2.jpg",
+                "2024/elodie_anglade-S-2-2024-1CVDG/Cat_3.jpg",
+                "2024/elodie_anglade-S-2-2024-1CVDG/Cat_video_2.mp4",
+                "2024/elodie_anglade-S-2-2024-1CVDG/Cat_4.jpg",
+                "2024/elodie_anglade-S-2-2024-1CVDG/Cat_5"
             ],
             "title": "Misery of the Hearts",
             "slug": "misery-of-the-hearts",
@@ -888,12 +888,12 @@
         },
         {
             "photos": [
-                "images/projects/2024/casa-nostra-2024/Thumbnail_CasaNostra_1.jpg",
-                "images/projects/2024/casa-nostra-2024/CasaNostra_2.jpg",
-                "images/projects/2024/casa-nostra-2024/CasaNostra_3.jpg",
-                "images/projects/2024/casa-nostra-2024/CasaNostra_4.jpg",
-                "images/projects/2024/casa-nostra-2024/CasaNostra_5.jpg",
-                "images/projects/2024/casa-nostra-2024/CasaNostra_6.jpg"
+                "2024/casa-nostra-2024/Thumbnail_CasaNostra_1.jpg",
+                "2024/casa-nostra-2024/CasaNostra_2.jpg",
+                "2024/casa-nostra-2024/CasaNostra_3.jpg",
+                "2024/casa-nostra-2024/CasaNostra_4.jpg",
+                "2024/casa-nostra-2024/CasaNostra_5.jpg",
+                "2024/casa-nostra-2024/CasaNostra_6.jpg"
             ],
             "title": "Menu for Casa Nostra",
             "slug": "menu-for-casa-nostra",
@@ -905,13 +905,13 @@
         },
         {
             "photos": [
-                "images/projects/2024/helas-studio-2024/FINAL.jpg",
-                "images/projects/2024/helas-studio-2024/3d-video.mp4",
-                "images/projects/2024/helas-studio-2024/magritte-le-rideau.jpg",
-                "images/projects/2024/helas-studio-2024/maquette20001.jpg",
-                "images/projects/2024/helas-studio-2024/MV5BMGNhMzkxMDEtMjJiZi00NzA3LWFjMTEtMDkyNGE5N2NkMjE3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX2000_.jpg",
-                "images/projects/2024/helas-studio-2024/windows-xp-hd.jpg",
-                "images/projects/2024/helas-studio-2024/19f400e40c085733a043d331468633d7.jpg"
+                "2024/helas-studio-2024/FINAL.jpg",
+                "2024/helas-studio-2024/3d-video.mp4",
+                "2024/helas-studio-2024/magritte-le-rideau.jpg",
+                "2024/helas-studio-2024/maquette20001.jpg",
+                "2024/helas-studio-2024/MV5BMGNhMzkxMDEtMjJiZi00NzA3LWFjMTEtMDkyNGE5N2NkMjE3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX2000_.jpg",
+                "2024/helas-studio-2024/windows-xp-hd.jpg",
+                "2024/helas-studio-2024/19f400e40c085733a043d331468633d7.jpg"
             ],
             "title": "\"We are going to fight fire with marshmallows\"",
             "slug": "we-are-going-to-fight-fire-with-marshmallows",
@@ -923,10 +923,10 @@
         },
         {
             "photos": [
-                "images/projects/2024/theatre-parhelia-2024/Thumbnail_Pharelia_1.jpg",
-                "images/projects/2024/theatre-parhelia-2024/Pharelia_2.jpg",
-                "images/projects/2024/theatre-parhelia-2024/Pharelia_3.jpg",
-                "images/projects/2024/theatre-parhelia-2024/Double_Vertical_5.jpg"
+                "2024/theatre-parhelia-2024/Thumbnail_Pharelia_1.jpg",
+                "2024/theatre-parhelia-2024/Pharelia_2.jpg",
+                "2024/theatre-parhelia-2024/Pharelia_3.jpg",
+                "2024/theatre-parhelia-2024/Double_Vertical_5.jpg"
             ],
             "title": "Femmes de Troie",
             "slug": "femmes-de-troie",
@@ -938,15 +938,15 @@
         },
         {
             "photos": [
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/Thumbnail_FindFoot_1.jpg",
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_2.jpg",
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_3.jpg",
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_4.jpg",
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_5.jpg",
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_6.jpg",
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_7.jpg",
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_8.jpg",
-                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_9.jpg"
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/Thumbnail_FindFoot_1.jpg",
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_2.jpg",
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_3.jpg",
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_4.jpg",
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_5.jpg",
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_6.jpg",
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_7.jpg",
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_8.jpg",
+                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_9.jpg"
             ],
             "title": "FindFoot, We <3 Feet",
             "slug": "findfoot-we-love-feet",
@@ -958,14 +958,14 @@
         },
         {
             "photos": [
-                "images/projects/2024/workshop-2024/Thumbnail-DigitalWeek_1.jpg",
-                "images/projects/2024/workshop-2024/DigitalWeek_Video_1.mp4",
-                "images/projects/2024/workshop-2024/DigitalWeek_Video_2.mp4",
-                "images/projects/2024/workshop-2024/DigitalWeek_Video_3.mp4",
-                "images/projects/2024/workshop-2024/DigitalWeek_2.jpg",
-                "images/projects/2024/workshop-2024/DigitalWeek_3.jpg",
-                "images/projects/2024/workshop-2024/DigitalWeek_Video_4.mp4",
-                "images/projects/2024/workshop-2024/DigitalWeek_Video_5.mp4"
+                "2024/workshop-2024/Thumbnail-DigitalWeek_1.jpg",
+                "2024/workshop-2024/DigitalWeek_Video_1.mp4",
+                "2024/workshop-2024/DigitalWeek_Video_2.mp4",
+                "2024/workshop-2024/DigitalWeek_Video_3.mp4",
+                "2024/workshop-2024/DigitalWeek_2.jpg",
+                "2024/workshop-2024/DigitalWeek_3.jpg",
+                "2024/workshop-2024/DigitalWeek_Video_4.mp4",
+                "2024/workshop-2024/DigitalWeek_Video_5.mp4"
             ],
             "title": "Digital Cleanup Week",
             "slug": "digital-cleanup-week",
@@ -977,14 +977,14 @@
         },
         {
             "photos": [
-                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_1.jpg",
-                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_5.jpg",
-                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Glyphs_M.jpg",
-                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_2.jpg",
-                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_3.jpg",
-                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_alphabet_sketch.jpg",
-                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_4.jpg",
-                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Glyphs_A.jpg"
+                "2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_1.jpg",
+                "2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_5.jpg",
+                "2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Glyphs_M.jpg",
+                "2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_2.jpg",
+                "2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_3.jpg",
+                "2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_alphabet_sketch.jpg",
+                "2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_4.jpg",
+                "2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Glyphs_A.jpg"
             ],
             "title": "Arancino",
             "slug": "arancino",
@@ -996,11 +996,11 @@
         },
         {
             "photos": [
-                "images/projects/2025/balmer_hahlen-2025/Thumbnail_Balmer_Hahlen_Affiche_1.jpg",
-                "images/projects/2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_2.jpg",
-                "images/projects/2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_3.jpg",
-                "images/projects/2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_4.jpg",
-                "images/projects/2025/balmer_hahlen-2025/IMG_3596.jpg"
+                "2025/balmer_hahlen-2025/Thumbnail_Balmer_Hahlen_Affiche_1.jpg",
+                "2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_2.jpg",
+                "2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_3.jpg",
+                "2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_4.jpg",
+                "2025/balmer_hahlen-2025/IMG_3596.jpg"
             ],
             "title": "Cartoon Network used to rock but not anymore and that makes me sad",
             "slug": "cartoon-network-used-to-rock-but-not-anymore-and-that-makes-me-sad",
@@ -1012,18 +1012,18 @@
         },
         {
             "photos": [
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Thumbnail_Oiseaux_Repros_7.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_plan_travail.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_1.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_2.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_3.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_4.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_5.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_6.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_8.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_9.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_10.jpg",
-                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_photo.jpg"
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Thumbnail_Oiseaux_Repros_7.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_plan_travail.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_1.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_2.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_3.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_4.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_5.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_6.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_8.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_9.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_10.jpg",
+                "2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_photo.jpg"
             ],
             "title": "Et si l'on pouvait comprendre les Oiseaux",
             "slug": "et-si-lon-pouvait-comprendre-les-oiseaux",
@@ -1035,21 +1035,21 @@
         },
         {
             "photos": [
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_1.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_2.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_3.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_4.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_5.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_site_walk_through",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_6.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_7.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_8.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_9.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_10.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_11.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_12.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_13.jpg",
-                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_14.jpg"
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_1.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_2.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_3.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_4.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_5.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_site_walk_through",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_6.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_7.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_8.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_9.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_10.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_11.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_12.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_13.jpg",
+                "2025/S-2-Cirimele_Schneider-2025/CHeer_repros_14.jpg"
             ],
             "title": "CHEER Magazine",
             "slug": "cheer-magazine",
@@ -1061,14 +1061,14 @@
         },
         {
             "photos": [
-                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Thumbnail_Dys_Repros_1.jpg",
-                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_7.jpg",
-                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_2.jpg",
-                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_8.jpg",
-                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_3.jpg",
-                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_4.jpg",
-                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_5.jpg",
-                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_6.jpg"
+                "2025/Aurele_Sack-3CVDG-S-1-2025/Thumbnail_Dys_Repros_1.jpg",
+                "2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_7.jpg",
+                "2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_2.jpg",
+                "2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_8.jpg",
+                "2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_3.jpg",
+                "2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_4.jpg",
+                "2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_5.jpg",
+                "2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_6.jpg"
             ],
             "title": "Dys Typeface",
             "slug": "dys-typeface",
@@ -1080,19 +1080,19 @@
         },
         {
             "photos": [
-                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_1.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_2.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros__hand_1.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_3.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_close-up_1",
-                "images/projects/2025/jon_hares_3CVDGS1/Architecture_serigraphie_1.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_4.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_5.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_close-up_2",
-                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_6.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Architecture_serigraphie_2",
-                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_7.jpg",
-                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_8.jpg"
+                "2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_1.jpg",
+                "2025/jon_hares_3CVDGS1/Architecture_Repros_2.jpg",
+                "2025/jon_hares_3CVDGS1/Architecture_Repros__hand_1.jpg",
+                "2025/jon_hares_3CVDGS1/Architecture_Repros_3.jpg",
+                "2025/jon_hares_3CVDGS1/Architecture_Repros_close-up_1",
+                "2025/jon_hares_3CVDGS1/Architecture_serigraphie_1.jpg",
+                "2025/jon_hares_3CVDGS1/Architecture_Repros_4.jpg",
+                "2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_5.jpg",
+                "2025/jon_hares_3CVDGS1/Architecture_Repros_close-up_2",
+                "2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_6.jpg",
+                "2025/jon_hares_3CVDGS1/Architecture_serigraphie_2",
+                "2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_7.jpg",
+                "2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_8.jpg"
             ],
             "title": "Making Architecture Beautiful Again",
             "slug": "making-architecture-beautiful-again",
@@ -1104,11 +1104,11 @@
         },
         {
             "photos": [
-                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/ThumbnailAntigelposter_creditsMarvinMerkel.jpg",
-                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_Poster_rue_1.jpg",
-                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigelposter_creditsmarvinMerkel.jpg",
-                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_Poster_rue_2.jpg",
-                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_mockup_video.mp4"
+                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/ThumbnailAntigelposter_creditsMarvinMerkel.jpg",
+                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_Poster_rue_1.jpg",
+                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigelposter_creditsmarvinMerkel.jpg",
+                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_Poster_rue_2.jpg",
+                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_mockup_video.mp4"
             ],
             "title": "Variety of Connecions",
             "slug": "variety-of-connecions",

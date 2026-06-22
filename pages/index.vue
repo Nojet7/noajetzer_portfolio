@@ -123,8 +123,8 @@ async function preloadThumbnails() {
         </section>
 
         <footer>
-            <p class="footer-title">NOA JETZER (SHE/HER)</p>
-            <p><a href="mailto:contact@noajetzer.ch">contact@noajetzer.ch</a></p>
+            <p class="footer-title">NOA JETZER (SHE/HER) B.A. IN GRAPHIC DESIGN FROM ECAL IN 2026</p>
+            <p><a href="mailto:contact@noajetzer.ch">CONTACT@NOAJETZER.CH</a></p>
         </footer>
     </div>
 </template>

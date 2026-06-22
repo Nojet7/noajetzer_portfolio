@@ -2,7 +2,7 @@
     "about": [
         {
             "photos": [
-                "library/Book_1.jpg"
+                "images/library/Book_1.jpg"
             ],
             "title": "L'Art Brut 9, Madge Gill, Bentivegna, Ratier, divers autres et la collection du Dr Marie.",
             "date": "Paris, 1973.",
@@ -12,7 +12,7 @@
         },
         {
             "photos": [
-                "library/Book_2.jpg"
+                "images/library/Book_2.jpg"
             ],
             "title": "L'Art Brut 2, Adolf Wölfli.",
             "date": "Paris, 1964.",
@@ -22,7 +22,7 @@
         },
         {
             "photos": [
-                "library/Book_3.jpg"
+                "images/library/Book_3.jpg"
             ],
             "title": "Artificial nature.",
             "date": "Athens, 1990.",
@@ -32,7 +32,7 @@
         },
         {
             "photos": [
-                "library/Book_4.jpg"
+                "images/library/Book_4.jpg"
             ],
             "title": "Ce que l'on s'aime.",
             "date": "Lausanne, 2025.",
@@ -42,7 +42,7 @@
         },
         {
             "photos": [
-                "library/Book_5.jpg"
+                "images/library/Book_5.jpg"
             ],
             "title": "The Convent of Pleasure.",
             "date": "Paris, 2020.",
@@ -52,7 +52,7 @@
         },
         {
             "photos": [
-                "library/Book_6.jpg"
+                "images/library/Book_6.jpg"
             ],
             "title": "Mockup x36",
             "date": "Lausanne, 2013.",
@@ -62,7 +62,7 @@
         },
         {
             "photos": [
-                "library/Book_7.jpg"
+                "images/library/Book_7.jpg"
             ],
             "title": "Pour une critique du design graphique.",
             "date": "Paris, 2020.",
@@ -72,7 +72,7 @@
         },
         {
             "photos": [
-                "library/Book_8.jpg"
+                "images/library/Book_8.jpg"
             ],
             "title": "Keystone.",
             "date": "2002.",
@@ -82,7 +82,7 @@
         },
         {
             "photos": [
-                "library/Book_9.jpg"
+                "images/library/Book_9.jpg"
             ],
             "title": "KIP",
             "date": "",
@@ -92,7 +92,7 @@
         },
         {
             "photos": [
-                "library/Book_10.jpg"
+                "images/library/Book_10.jpg"
             ],
             "title": "Lucy, by Lucy Garland - volume 1.",
             "date": "Melbourne, 2022.",
@@ -102,7 +102,7 @@
         },
         {
             "photos": [
-                "library/Book_11.jpg"
+                "images/library/Book_11.jpg"
             ],
             "title": "Émile Gallé.",
             "date": " New York, 2014.",
@@ -112,7 +112,7 @@
         },
         {
             "photos": [
-                "library/Book_12.jpg"
+                "images/library/Book_12.jpg"
             ],
             "title": "Bon à tirer, guide d'optimisation d'impression.",
             "date": "Lausanne, 2024.",
@@ -122,7 +122,7 @@
         },
         {
             "photos": [
-                "library/Book_13.jpg"
+                "images/library/Book_13.jpg"
             ],
             "title": "Y2K20",
             "date": "Lausanne, 2020.",
@@ -132,7 +132,7 @@
         },
         {
             "photos": [
-                "library/Book_14.tif"
+                "images/library/Book_14.tif"
             ],
             "title": "Mots.",
             "date": "1981.",
@@ -142,7 +142,7 @@
         },
         {
             "photos": [
-                "library/Book_15.jpg"
+                "images/library/Book_15.jpg"
             ],
             "title": "Service ac pour soldats, manuel d'instruction audio-visuelle.",
             "date": "Switzerland, 1975.",
@@ -152,7 +152,7 @@
         },
         {
             "photos": [
-                "library/Book_16.jpg"
+                "images/library/Book_16.jpg"
             ],
             "title": "Monsters: What Do We Do With Great Art By Bad People?",
             "date": "2023.",
@@ -162,7 +162,7 @@
         },
         {
             "photos": [
-                "library/Book_17.jpg"
+                "images/library/Book_17.jpg"
             ],
             "title": "Rasmus Klump, Har Flyvegriller.",
             "date": "2019.",
@@ -172,7 +172,7 @@
         },
         {
             "photos": [
-                "library/Book_18.jpg"
+                "images/library/Book_18.jpg"
             ],
             "title": "Grilles.",
             "date": "Paris, 2008.",
@@ -182,7 +182,7 @@
         },
         {
             "photos": [
-                "library/Book_19.jpg"
+                "images/library/Book_19.jpg"
             ],
             "title": "Comprendre la typographie.",
             "date": "Paris, 2007.",
@@ -192,7 +192,7 @@
         },
         {
             "photos": [
-                "library/Book_20.jpg"
+                "images/library/Book_20.jpg"
             ],
             "title": "Maquette.",
             "date": "Paris, 2007.",
@@ -202,7 +202,7 @@
         },
         {
             "photos": [
-                "library/Book_21.jpg"
+                "images/library/Book_21.jpg"
             ],
             "title": "Hypothetical Death of the Exarchian Alpha.",
             "date": "Athens and Montpellier, 2020.",
@@ -212,7 +212,7 @@
         },
         {
             "photos": [
-                "library/Book_22.jpg"
+                "images/library/Book_22.jpg"
             ],
             "title": "ECAL: Design Graphique/Grophic Design Design/Grafik Design.",
             "date": "Lausanne, 2004.",
@@ -222,7 +222,7 @@
         },
         {
             "photos": [
-                "library/Book_23.jpg"
+                "images/library/Book_23.jpg"
             ],
             "title": "The most beatiful Swiss books - 2003.",
             "date": "Bern, 2004.",
@@ -232,7 +232,7 @@
         },
         {
             "photos": [
-                "library/Book_24.jpg"
+                "images/library/Book_24.jpg"
             ],
             "title": "Eames & Vitra.",
             "date": "2023.",
@@ -242,7 +242,7 @@
         },
         {
             "photos": [
-                "library/Book_25.jpg"
+                "images/library/Book_25.jpg"
             ],
             "title": "Grid system in graphic design.",
             "date": "Teufen, 2022.",
@@ -252,7 +252,7 @@
         },
         {
             "photos": [
-                "library/Book_26.jpg"
+                "images/library/Book_26.jpg"
             ],
             "title": "Brigade Cynophile, posters 2019-2023.",
             "date": "Bruxelles, 2023.",
@@ -262,7 +262,7 @@
         },
         {
             "photos": [
-                "library/Book_27.jpg"
+                "images/library/Book_27.jpg"
             ],
             "title": "Glossary of Undisciplined Design.",
             "date": "Leipzig, 2021.",
@@ -272,7 +272,7 @@
         },
         {
             "photos": [
-                "library/Book_28.jpg"
+                "images/library/Book_28.jpg"
             ],
             "title": "What Design Can’t Do, Essays on Design and Disillusion.",
             "date": "Netherlands, 2023.",
@@ -282,7 +282,7 @@
         },
         {
             "photos": [
-                "library/Book_29.jpg"
+                "images/library/Book_29.jpg"
             ],
             "title": "Design for All? Inclusive Design Today.",
             "date": "Leipzig, 2024.",
@@ -292,7 +292,7 @@
         },
         {
             "photos": [
-                "library/Book_30.jpg"
+                "images/library/Book_30.jpg"
             ],
             "title": "Printmaking by ECAL 2008-2014.",
             "date": "Vevey and Lausanne, 2015.",
@@ -302,7 +302,7 @@
         },
         {
             "photos": [
-                "library/Book_31.jpg"
+                "images/library/Book_31.jpg"
             ],
             "title": "Words Form Language.",
             "date": "Zurich, 2021.",
@@ -312,7 +312,7 @@
         },
         {
             "photos": [
-                "library/Book_32.jpg"
+                "images/library/Book_32.jpg"
             ],
             "title": "Maximage Color Combinations.",
             "date": "Lausanne, 2019.",
@@ -322,7 +322,7 @@
         },
         {
             "photos": [
-                "library/Book_33.jpg"
+                "images/library/Book_33.jpg"
             ],
             "title": "ECAL Graphic Design.",
             "date": "Zurich, 2016.",
@@ -332,7 +332,7 @@
         },
         {
             "photos": [
-                "library/Book_34.jpg"
+                "images/library/Book_34.jpg"
             ],
             "title": "Symbolic Machines – Institutional Transformation Through Exhibitions.",
             "date": "Copenhagen, 2025.",
@@ -342,7 +342,7 @@
         },
         {
             "photos": [
-                "library/Book_35.jpg"
+                "images/library/Book_35.jpg"
             ],
             "title": "The Most Beautiful Swiss Books 2023: An Autopsy of Tastes and Values.",
             "date": "Bern, 2024.",
@@ -352,7 +352,7 @@
         },
         {
             "photos": [
-                "library/Book_36.jpg"
+                "images/library/Book_36.jpg"
             ],
             "title": "Swiss Design Awards 2020. Failure is not an Option?",
             "date": "Bern, 2020.",
@@ -362,7 +362,7 @@
         },
         {
             "photos": [
-                "library/Book_37.jpg"
+                "images/library/Book_37.jpg"
             ],
             "title": "On Words, volume 4.",
             "date": "2024.",
@@ -372,7 +372,7 @@
         },
         {
             "photos": [
-                "library/Book_38.jpg"
+                "images/library/Book_38.jpg"
             ],
             "title": "Un féminisme décolonial.",
             "date": "Paris, 2019.",
@@ -382,7 +382,7 @@
         },
         {
             "photos": [
-                "library/Book_39.jpg"
+                "images/library/Book_39.jpg"
             ],
             "title": "À propos d'amour.",
             "date": "Quimperlé, 2022.",
@@ -392,7 +392,7 @@
         },
         {
             "photos": [
-                "library/Book_40.jpg"
+                "images/library/Book_40.jpg"
             ],
             "title": "Cahier de recherche – Diversions 1.",
             "date": "Lausanne, 2014.",
@@ -402,7 +402,7 @@
         },
         {
             "photos": [
-                "library/Book_41.jpg"
+                "images/library/Book_41.jpg"
             ],
             "title": "Le Dico Romand.",
             "date": "Lausanne, 2020.",
@@ -412,7 +412,7 @@
         },
         {
             "photos": [
-                "library/Book_42.jpg"
+                "images/library/Book_42.jpg"
             ],
             "title": "Vacances Tranquilou, en France avec Aldo",
             "date": "2017.",
@@ -421,7 +421,7 @@
         },
         {
             "photos": [
-                "library/Book_43.jpg"
+                "images/library/Book_43.jpg"
             ],
             "title": "Who can afford to be critical? An inquiry into what we can't do alors, as designers, and into what we might be able to do together, as people.",
             "date": "Netherlands, 2022.",
@@ -431,7 +431,7 @@
         },
         {
             "photos": [
-                "library/Book_44.jpg"
+                "images/library/Book_44.jpg"
             ],
             "title": "Automated photography.",
             "date": "London and Lausanne, 2021.",
@@ -441,7 +441,7 @@
         },
         {
             "photos": [
-                "library/Book_45.jpg"
+                "images/library/Book_45.jpg"
             ],
             "title": "Bettina Rheims - 40th Ed.",
             "date": "2016.",
@@ -451,7 +451,7 @@
         },
         {
             "photos": [
-                "library/Book_46.jpg"
+                "images/library/Book_46.jpg"
             ],
             "title": "L'idiot utile - Issue 0.",
             "date": "Argenteuil and Paris, 2022.",
@@ -461,7 +461,7 @@
         },
         {
             "photos": [
-                "library/Book_47.jpg"
+                "images/library/Book_47.jpg"
             ],
             "title": "1020 Renens.",
             "date": "Lausanne, 2015.",
@@ -471,7 +471,7 @@
         },
         {
             "photos": [
-                "library/Book_48.jpg"
+                "images/library/Book_48.jpg"
             ],
             "title": "Jean Otth, Travaux/Works 1964-2013.",
             "date": "Lausanne and Zurich, 2020.",
@@ -481,7 +481,7 @@
         },
         {
             "photos": [
-                "library/Book_49.jpg"
+                "images/library/Book_49.jpg"
             ],
             "title": "Second Nature.",
             "date": "2021.",
@@ -491,7 +491,7 @@
         },
         {
             "photos": [
-                "library/Book_50.jpg"
+                "images/library/Book_50.jpg"
             ],
             "title": "The Sniper In The Brain.",
             "date": "Rome and Los Angeles, 2024.",
@@ -501,7 +501,7 @@
         },
         {
             "photos": [
-                "library/Book_51.jpg"
+                "images/library/Book_51.jpg"
             ],
             "title": "Épopées célestes – Art brut dans la collection Decharme.",
             "date": "Rome, 2024.",
@@ -511,7 +511,7 @@
         },
         {
             "photos": [
-                "library/Book_52.jpg"
+                "images/library/Book_52.jpg"
             ],
             "title": "HELLO My name is.",
             "date": "London, 2021.",
@@ -521,7 +521,7 @@
         },
         {
             "photos": [
-                "library/Book_53.jpg"
+                "images/library/Book_53.jpg"
             ],
             "title": "Andy Warhol, Polaroids 1958–1987.",
             "date": "Köln, 2017.",
@@ -531,7 +531,7 @@
         },
         {
             "photos": [
-                "library/Book_54.jpg"
+                "images/library/Book_54.jpg"
             ],
             "title": "032c — Issue 39.",
             "date": "Berlin, 2021.",
@@ -541,7 +541,7 @@
         },
         {
             "photos": [
-                "library/Book_55.jpg"
+                "images/library/Book_55.jpg"
             ],
             "title": "Seen Through Others.",
             "date": "Paris, 2022.",
@@ -551,7 +551,7 @@
         },
         {
             "photos": [
-                "library/Book_56.jpg"
+                "images/library/Book_56.jpg"
             ],
             "title": "La main (et) le gant.",
             "date": "Vevey, 2024",
@@ -561,7 +561,7 @@
         },
         {
             "photos": [
-                "library/Book_57.jpg"
+                "images/library/Book_57.jpg"
             ],
             "title": "Contemporary Canadian Art.",
             "date": "Edmonton, 1983.",
@@ -571,7 +571,7 @@
         },
         {
             "photos": [
-                "library/Book_58.jpg"
+                "images/library/Book_58.jpg"
             ],
             "title": "Del Llanto.",
             "date": "New York, 2021.",
@@ -581,7 +581,7 @@
         },
         {
             "photos": [
-                "library/Book_59.jpg"
+                "images/library/Book_59.jpg"
             ],
             "title": "Collection d'art de la Banque Cantonale Vaudoise.",
             "date": "2012.",
@@ -591,7 +591,7 @@
         },
         {
             "photos": [
-                "library/Book_60.jpg"
+                "images/library/Book_60.jpg"
             ],
             "title": "Raw Vision Magazine, issue 18.",
             "date": "1997.",
@@ -601,7 +601,7 @@
         },
         {
             "photos": [
-                "library/Book_61.jpg"
+                "images/library/Book_61.jpg"
             ],
             "title": "Novembre Magazine, Issue 12.",
             "date": "2017.",
@@ -611,7 +611,7 @@
         },
         {
             "photos": [
-                "library/Book_62.jpg"
+                "images/library/Book_62.jpg"
             ],
             "title": "TYPEONE Magazine — Issue 09, Packaging, Food and Typography.",
             "date": "London, 2024.",
@@ -621,7 +621,7 @@
         },
         {
             "photos": [
-                "library/Book_63.jpg"
+                "images/library/Book_63.jpg"
             ],
             "title": "TYPEONE Magazine — Issue 06, The Experimental Type Issue.",
             "date": "London, 2023.",
@@ -631,7 +631,7 @@
         },
         {
             "photos": [
-                "library/Book_64.jpg"
+                "images/library/Book_64.jpg"
             ],
             "title": "TYPEONE Magazine — Issue 08, The Japanese Graphic Design x Typography Issue.",
             "date": "London, 2024.",
@@ -641,7 +641,7 @@
         },
         {
             "photos": [
-                "library/Book_65.jpg"
+                "images/library/Book_65.jpg"
             ],
             "title": "TYPEONE Magazine — Issue 07, The Creative Coding Issue",
             "date": "London, 2023.",
@@ -651,7 +651,7 @@
         },
         {
             "photos": [
-                "library/Book_66.jpg"
+                "images/library/Book_66.jpg"
             ],
             "title": "LIGURIA: Recipes & Wanderings",
             "date": "Barcelona, 2024.",
@@ -660,26 +660,18 @@
             "link": ""
         }
     ],
-    
-
-
-
-
-
-
-
     "projects": [
         {
             "photos": [
-                "2022/3e_oeil_prope/577A6649.jpg",
-                "2022/3e_oeil_prope/Jetzer-Noa-3eme-oeil9.jpg",
-                "2022/3e_oeil_prope/book3eoeil3.jpg",
-                "2022/3e_oeil_prope/book3eoeil2.jpg",
-                "2022/3e_oeil_prope/577A6034-2.jpg",
-                "2022/3e_oeil_prope/Jetzer-Noa-3eme-oeil5.jpg",
-                "2022/3e_oeil_prope/Jetzer-Noa-3eme-oeil3.jpg",
-                "2022/3e_oeil_prope/Jetzer-Noa-3eme-oeil1.jpg",
-                "2022/3e_oeil_prope/577A6652.jpg"
+                "images/projects/2022/3e_oeil_prope/Thumbnail_3oeil_1.jpg",
+                "images/projects/2022/3e_oeil_prope/3oeil_2.jpg",
+                "images/projects/2022/3e_oeil_prope/3oeil_3.jpg",
+                "images/projects/2022/3e_oeil_prope/3oeil_4.jpg",
+                "images/projects/2022/3e_oeil_prope/3oeil_5.jpg",
+                "images/projects/2022/3e_oeil_prope/3oeil_6.jpg",
+                "images/projects/2022/3e_oeil_prope/3oeil_7.jpg",
+                "images/projects/2022/3e_oeil_prope/3oeil_8.jpg",
+                "images/projects/2022/3e_oeil_prope/3oeil_9.jpg"
             ],
             "title": "Third Eye",
             "slug": "third-eye",
@@ -691,17 +683,17 @@
         },
         {
             "photos": [
-                "2023/1cvdg_1sem-C.Leutenegger-photo/577A7410 copie.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/577A6993-Edit copie.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/Plan de travail 1.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/577A7458 copie 2.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/577A7539 copie 2.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/577A7577-Edit copie 2.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/577A7593-Edit copie 2.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/arbre-577A7454 copie.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/branches-577A7405 copie.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/Plan de travail 2.jpg",
-                "2023/1cvdg_1sem-C.Leutenegger-photo/valency-96.jpg"
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Thumbnail_Valency_cheval.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_1.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Spread_1.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_ciel.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_2.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_3.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_4.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_arbre_1.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_arbre_2.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Spread_2.jpg",
+                "images/projects/2023/1cvdg_1sem-C.Leutenegger-photo/Valency_Leo_5.jpg"
             ],
             "title": "Shaped Nature",
             "slug": "shaped-nature",
@@ -713,16 +705,12 @@
         },
         {
             "photos": [
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/thumbnail_l-guyot-1cvdg.jpg",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/577A7191.jpg",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/Jetzer-Noa_Teaser.mp4",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/577A7199.jpg",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/Jetzer-Noa_Sequence.mp4",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/RPReplay_Final1704644766.mp4",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/RPReplay_Final1704644787.mp4",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/RPReplay_Final1704644807.mp4",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/RPReplay_Final1704644826.mp4",
-                "2023/1cvdg-1sem-L.Guyot-sequence2d/teste-camera10001-0096.mp4"
+                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/thumbnail_Jules_1.jpg",
+                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_2.jpg",
+                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_1.mp4",
+                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_3.mp4",
+                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_3.jpg",
+                "images/projects/2023/1cvdg-1sem-L.Guyot-sequence2d/Jules_video_2.mp4"
             ],
             "title": "Dans la Tête de Jules",
             "slug": "dans-la-tete-de-jules",
@@ -734,22 +722,22 @@
         },
         {
             "photos": [
-                "2023/concours_entree_bachelor/IMG_3854.jpg",
-                "2023/concours_entree_bachelor/gem3.jpg",
-                "2023/concours_entree_bachelor/IMG_3828.jpg",
-                "2023/concours_entree_bachelor/IMG_3829.jpg",
-                "2023/concours_entree_bachelor/IMG_3830.jpg",
-                "2023/concours_entree_bachelor/IMG_3851.jpg",
-                "2023/concours_entree_bachelor/IMG_3852.jpg",
-                "2023/concours_entree_bachelor/IMG_3853.jpg",
-                "2023/concours_entree_bachelor/IMG_3855.jpg",
-                "2023/concours_entree_bachelor/IMG_3856.jpg",
-                "2023/concours_entree_bachelor/IMG_3857.jpg",
-                "2023/concours_entree_bachelor/IMG_3858.jpg",
-                "2023/concours_entree_bachelor/IMG_3859.jpg",
-                "2023/concours_entree_bachelor/IMG_3860.jpg",
-                "2023/concours_entree_bachelor/IMG_3862.jpg",
-                "2023/concours_entree_bachelor/IMG_3863.jpg"
+                "images/projects/2023/concours_entree_bachelor/Thumbnail_Bob_1.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_2.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_6.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_3.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_7.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_8.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_9.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_4.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_10.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_11.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_12.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_13.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_5.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_14.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_15.jpg",
+                "images/projects/2023/concours_entree_bachelor/Bob_16.jpg"
             ],
             "title": "Bob",
             "slug": "bob",
@@ -761,14 +749,14 @@
         },
         {
             "photos": [
-                "2023/Guy_Meldem-S-1-2023-1CVDG/copper34.jpg",
-                "2023/Guy_Meldem-S-1-2023-1CVDG/copper28.jpg",
-                "2023/Guy_Meldem-S-1-2023-1CVDG/copper29.jpg",
-                "2023/Guy_Meldem-S-1-2023-1CVDG/copper30.jpg",
-                "2023/Guy_Meldem-S-1-2023-1CVDG/copper31-2.jpg",
-                "2023/Guy_Meldem-S-1-2023-1CVDG/copper32.jpg",
-                "2023/Guy_Meldem-S-1-2023-1CVDG/copper33.jpg",
-                "2023/Guy_Meldem-S-1-2023-1CVDG/copper35.jpg"
+                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Thumbnail_Cafe_1.jpg",
+                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_2.jpg",
+                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_3.jpg",
+                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_4.jpg",
+                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_5.jpg",
+                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_6.jpg",
+                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_7.jpg",
+                "images/projects/2023/Guy_Meldem-S-1-2023-1CVDG/Cafe_8.jpg"
             ],
             "title": "A guide to making good Italian coffee if you are a dog waiter",
             "slug": "a-guide-to-making-good-italian-coffee-if-you-are-a-dog-waiter",
@@ -780,10 +768,10 @@
         },
         {
             "photos": [
-                "2023/Robert_Huber-S-2-2023-1CVDG/Repros-adeline60.jpg",
-                "2023/Robert_Huber-S-2-2023-1CVDG/typo06.jpg",
-                "2023/Robert_Huber-S-2-2023-1CVDG/video-cahier-recherche.mp4",
-                "2023/Robert_Huber-S-2-2023-1CVDG/Repros-adeline61.jpg"
+                "images/projects/2023/Robert_Huber-S-2-2023-1CVDG/Thumbnail_King_1.jpg",
+                "images/projects/2023/Robert_Huber-S-2-2023-1CVDG/King_2.jpg",
+                "images/projects/2023/Robert_Huber-S-2-2023-1CVDG/King_video.mp4",
+                "images/projects/2023/Robert_Huber-S-2-2023-1CVDG/King_3.jpg"
             ],
             "title": "King, Typography",
             "slug": "king-typography",
@@ -795,19 +783,18 @@
         },
         {
             "photos": [
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/IMG_5498.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper04.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper05.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper06.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper07.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper08.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper18.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper20.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper21.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/copper26.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/noa_3.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/terre-enfer-ciel-extrait.jpg",
-                "2023/S-1-2023-1CVDG-Adeline_Mollard/vectorisations-12.jpg"
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Thumbnail_Prelaz_1.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_2.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_3.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_4.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/copper08.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_6.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_7.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_8.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_9.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_10.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_11.jpg",
+                "images/projects/2023/S-1-2023-1CVDG-Adeline_Mollard/Prelaz_12.jpg"
             ],
             "title": "Play with the children of Prélaz",
             "slug": "play-with-the-children-of-prelaz",
@@ -819,13 +806,13 @@
         },
         {
             "photos": [
-                "2023/violene_pont-2023/IMG_4297.jpg",
-                "2023/violene_pont-2023/video-flyers-insta.MP4",
-                "2023/violene_pont-2023/IMG_4303.jpg",
-                "2023/violene_pont-2023/IMG_4302.jpg",
-                "2023/violene_pont-2023/IMG_4301.jpg",
-                "2023/violene_pont-2023/IMG_4300.jpg",
-                "2023/violene_pont-2023/IMG_2951.jpg"
+                "images/projects/2023/violene_pont-2023/Thumbnail_Brocante_1.jpg",
+                "images/projects/2023/violene_pont-2023/Brocante_video.mp4",
+                "images/projects/2023/violene_pont-2023/Brocante_2.jpg",
+                "images/projects/2023/violene_pont-2023/Brocante_3.jpg",
+                "images/projects/2023/violene_pont-2023/Brocante_4.jpg",
+                "images/projects/2023/violene_pont-2023/Brocante_5.jpg",
+                "images/projects/2023/violene_pont-2023/Brocante_6.jpg"
             ],
             "title": "La Brocante",
             "slug": "la-brocante",
@@ -837,23 +824,19 @@
         },
         {
             "photos": [
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline53.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/IMG_9702.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Jetzer-Noa-Video-Mollard.mp4",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/posternoa.jpg__0x1280_q85_subsampling-2.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline02.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline03.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline06.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline11.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline16.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline26.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline30.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline34.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline45.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/Repros-adeline58.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/RPReplay_Final1713274037.mov",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/thumbnail-adeline-1cvdg-s2.jpg",
-                "2024/Adeline_Mollard-S-2-2024-1CVDG/WhatsApp Image 2025-08-09 at 15.13.42.jpeg"
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/Thumbnail_72Flyers_1.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_2.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_Poster.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_3.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_4.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_5.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_6.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_7.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_8.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_9.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_10.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_11.jpg",
+                "images/projects/2024/Adeline_Mollard-S-2-2024-1CVDG/72Flyers_12.jpg"
             ],
             "title": "72 Flyers",
             "slug": "72-flyers",
@@ -865,17 +848,17 @@
         },
         {
             "photos": [
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/double-cover.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/p-6.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/p-2.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/jaquette.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/p-5.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/p-7.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/Affiche-Verso-Insta.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/noamockup.jpg__0x1280_q85_subsampling-2.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/p-3.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/p-4.jpg",
-                "2024/Diego_Bontognalli-S-1-2024-2CVDG/Video-Jetzer-Noa.mp4"
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/Thumbnail_FreakShows_1.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_2.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_3.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_4.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_5.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_6.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Poster_1.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Poster_2.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_7.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_8.jpg",
+                "images/projects/2024/Diego_Bontognalli-S-1-2024-2CVDG/FreakShows_Video.mp4"
             ],
             "title": "The Greatest Show on Earth!(?), Freak Shows Through Headlines",
             "slug": "the-greatest-show-on-earth-freak-shows-through-headlines",
@@ -887,13 +870,13 @@
         },
         {
             "photos": [
-                "2024/elodie_anglade-S-2-2024-1CVDG/scene1_0100.jpg",
-                "2024/elodie_anglade-S-2-2024-1CVDG/3scenes-redshift.mp4",
-                "2024/elodie_anglade-S-2-2024-1CVDG/Atest.jpg",
-                "2024/elodie_anglade-S-2-2024-1CVDG/IMG_0339.jpg",
-                "2024/elodie_anglade-S-2-2024-1CVDG/3scenes.mp4",
-                "2024/elodie_anglade-S-2-2024-1CVDG/IMG-20240304-WA0062.jpg",
-                "2024/elodie_anglade-S-2-2024-1CVDG/scene1_0116.jpg"
+                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Thumbnail_Cat_1.jpg",
+                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_video_1.mp4",
+                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_2.jpg",
+                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_3.jpg",
+                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_video_2.mp4",
+                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_4.jpg",
+                "images/projects/2024/elodie_anglade-S-2-2024-1CVDG/Cat_5"
             ],
             "title": "Misery of the Hearts",
             "slug": "misery-of-the-hearts",
@@ -905,11 +888,12 @@
         },
         {
             "photos": [
-                "2024/casa-nostra-2024/IMG_1970.jpg",
-                "2024/casa-nostra-2024/IMG-20240629-WA0043.jpg",
-                "2024/casa-nostra-2024/Free_Clipboard_Mockup_4.jpg",
-                "2024/casa-nostra-2024/Free_Clipboard_Mockup_5.jpg",
-                "2024/casa-nostra-2024/Free_Clipboard_Mockup_2.jpg"
+                "images/projects/2024/casa-nostra-2024/Thumbnail_CasaNostra_1.jpg",
+                "images/projects/2024/casa-nostra-2024/CasaNostra_2.jpg",
+                "images/projects/2024/casa-nostra-2024/CasaNostra_3.jpg",
+                "images/projects/2024/casa-nostra-2024/CasaNostra_4.jpg",
+                "images/projects/2024/casa-nostra-2024/CasaNostra_5.jpg",
+                "images/projects/2024/casa-nostra-2024/CasaNostra_6.jpg"
             ],
             "title": "Menu for Casa Nostra",
             "slug": "menu-for-casa-nostra",
@@ -921,13 +905,13 @@
         },
         {
             "photos": [
-                "2024/helas-studio-2024/FINAL.jpg",
-                "2024/helas-studio-2024/3d-video.mp4",
-                "2024/helas-studio-2024/magritte-le-rideau.jpg",
-                "2024/helas-studio-2024/maquette20001.jpg",
-                "2024/helas-studio-2024/MV5BMGNhMzkxMDEtMjJiZi00NzA3LWFjMTEtMDkyNGE5N2NkMjE3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX2000_.jpg",
-                "2024/helas-studio-2024/windows-xp-hd.jpg",
-                "2024/helas-studio-2024/19f400e40c085733a043d331468633d7.jpg"
+                "images/projects/2024/helas-studio-2024/FINAL.jpg",
+                "images/projects/2024/helas-studio-2024/3d-video.mp4",
+                "images/projects/2024/helas-studio-2024/magritte-le-rideau.jpg",
+                "images/projects/2024/helas-studio-2024/maquette20001.jpg",
+                "images/projects/2024/helas-studio-2024/MV5BMGNhMzkxMDEtMjJiZi00NzA3LWFjMTEtMDkyNGE5N2NkMjE3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX2000_.jpg",
+                "images/projects/2024/helas-studio-2024/windows-xp-hd.jpg",
+                "images/projects/2024/helas-studio-2024/19f400e40c085733a043d331468633d7.jpg"
             ],
             "title": "\"We are going to fight fire with marshmallows\"",
             "slug": "we-are-going-to-fight-fire-with-marshmallows",
@@ -939,10 +923,10 @@
         },
         {
             "photos": [
-                "2024/theatre-parhelia-2024/Thumbnail-pharelia.jpg",
-                "2024/theatre-parhelia-2024/Affiches-theatre.jpg",
-                "2024/theatre-parhelia-2024/IMG_3219.jpg",
-                "2024/theatre-parhelia-2024/Double_Vertical_5.jpg"
+                "images/projects/2024/theatre-parhelia-2024/Thumbnail_Pharelia_1.jpg",
+                "images/projects/2024/theatre-parhelia-2024/Pharelia_2.jpg",
+                "images/projects/2024/theatre-parhelia-2024/Pharelia_3.jpg",
+                "images/projects/2024/theatre-parhelia-2024/Double_Vertical_5.jpg"
             ],
             "title": "Femmes de Troie",
             "slug": "femmes-de-troie",
@@ -954,15 +938,15 @@
         },
         {
             "photos": [
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/Anouk 25-092.jpg",
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/Anouk 25-086.jpg",
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/hands_showing_2.jpg",
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/Anouk 25-087.jpg",
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/IMG_2342.jpg",
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/hands_showing.jpg",
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/Anouk 25-089.jpg",
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/IMG_2346.jpg",
-                "2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/Anouk 25-090.jpg"
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/Thumbnail_FindFoot_1.jpg",
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_2.jpg",
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_3.jpg",
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_4.jpg",
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_5.jpg",
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_6.jpg",
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_7.jpg",
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_8.jpg",
+                "images/projects/2024/Transversal-2CVDG-S-1-Polli_Schneider-2024/FindFoot_9.jpg"
             ],
             "title": "FindFoot, We <3 Feet",
             "slug": "findfoot-we-love-feet",
@@ -974,16 +958,14 @@
         },
         {
             "photos": [
-                "2024/workshop-2024/thumbnail-workshop.jpg",
-                "2024/workshop-2024/ALLUMEZ 2.MP4",
-                "2024/workshop-2024/COMPRESSEZ.MP4",
-                "2024/workshop-2024/VOYAGEZ.MP4",
-                "2024/workshop-2024/IMG_2324.jpg",
-                "2024/workshop-2024/scan08.jpg",
-                "2024/workshop-2024/IMG_2290.mov",
-                "2024/workshop-2024/test-anim-1.mp4",
-                "2024/workshop-2024/test-anim-2.mp4",
-                "2024/workshop-2024/video-stop-motion.mp4"
+                "images/projects/2024/workshop-2024/Thumbnail-DigitalWeek_1.jpg",
+                "images/projects/2024/workshop-2024/DigitalWeek_Video_1.mp4",
+                "images/projects/2024/workshop-2024/DigitalWeek_Video_2.mp4",
+                "images/projects/2024/workshop-2024/DigitalWeek_Video_3.mp4",
+                "images/projects/2024/workshop-2024/DigitalWeek_2.jpg",
+                "images/projects/2024/workshop-2024/DigitalWeek_3.jpg",
+                "images/projects/2024/workshop-2024/DigitalWeek_Video_4.mp4",
+                "images/projects/2024/workshop-2024/DigitalWeek_Video_5.mp4"
             ],
             "title": "Digital Cleanup Week",
             "slug": "digital-cleanup-week",
@@ -995,14 +977,14 @@
         },
         {
             "photos": [
-                "2025/Aurele_Sack-2CVDG-S-2-2025/repro_ba2s2_251_traitee.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-2CVDG-S-2-2025/repro_ba2s2_255_traitee.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-2CVDG-S-2-2025/Capture ecran 2025-08-09 a 17.25.56.jpg",
-                "2025/Aurele_Sack-2CVDG-S-2-2025/repro_ba2s2_252_traitee.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-2CVDG-S-2-2025/repro_ba2s2_253_traitee.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-2CVDG-S-2-2025/Plan de travail 3.jpg",
-                "2025/Aurele_Sack-2CVDG-S-2-2025/repro_ba2s2_254_traitee.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-2CVDG-S-2-2025/Capture ecran 2025-08-09 a 17.26.22.jpg"
+                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_1.jpg",
+                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_5.jpg",
+                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Glyphs_M.jpg",
+                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_2.jpg",
+                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_3.jpg",
+                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_alphabet_sketch.jpg",
+                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Repros_4.jpg",
+                "images/projects/2025/Aurele_Sack-2CVDG-S-2-2025/Arancino_Glyphs_A.jpg"
             ],
             "title": "Arancino",
             "slug": "arancino",
@@ -1014,12 +996,11 @@
         },
         {
             "photos": [
-                "2025/balmer_hahlen-2025/IMG_3580.jpg",
-                "2025/balmer_hahlen-2025/Affiche-A0-V3-couce-rose.jpg",
-                "2025/balmer_hahlen-2025/IMG_3573.mp4",
-                "2025/balmer_hahlen-2025/IMG_3574.jpg",
-                "2025/balmer_hahlen-2025/IMG_3579.jpg",
-                "2025/balmer_hahlen-2025/IMG_3596.jpg"
+                "images/projects/2025/balmer_hahlen-2025/Thumbnail_Balmer_Hahlen_Affiche_1.jpg",
+                "images/projects/2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_2.jpg",
+                "images/projects/2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_3.jpg",
+                "images/projects/2025/balmer_hahlen-2025/Balmer_Hahlen_Affiche_4.jpg",
+                "images/projects/2025/balmer_hahlen-2025/IMG_3596.jpg"
             ],
             "title": "Cartoon Network used to rock but not anymore and that makes me sad",
             "slug": "cartoon-network-used-to-rock-but-not-anymore-and-that-makes-me-sad",
@@ -1031,19 +1012,18 @@
         },
         {
             "photos": [
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux09.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/IMG_4614.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux03.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux04.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux05.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux06.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux07.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux08.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux12.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux13.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux20.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/oiseaux23.jpg",
-                "2025/Nicole_Udry-S-2-2CVDG-2025/PHOTO-2025-03-12-21-07-42 4.jpg"
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Thumbnail_Oiseaux_Repros_7.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_plan_travail.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_1.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_2.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_3.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_4.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_5.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_6.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_8.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_9.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_Repros_10.jpg",
+                "images/projects/2025/Nicole_Udry-S-2-2CVDG-2025/Oiseaux_photo.jpg"
             ],
             "title": "Et si l'on pouvait comprendre les Oiseaux",
             "slug": "et-si-lon-pouvait-comprendre-les-oiseaux",
@@ -1055,21 +1035,21 @@
         },
         {
             "photos": [
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-009_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-012_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-015_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-016_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-017_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/presse-tshirt.mp4",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-018_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-019_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-020_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-021_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-022_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-023_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-024_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-025_1.jpg",
-                "2025/S-2-Cirimele_Schneider-2025/Anouk 2025 S2-026_1.jpg"
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_1.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_2.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_3.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_4.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_5.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_site_walk_through",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_6.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_7.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_8.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_9.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_10.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_11.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_12.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_13.jpg",
+                "images/projects/2025/S-2-Cirimele_Schneider-2025/CHeer_repros_14.jpg"
             ],
             "title": "CHEER Magazine",
             "slug": "cheer-magazine",
@@ -1078,17 +1058,17 @@
             "referencement": "Second-year Bachelor project at ECAL, with Anouk Schneider and Emmanuel Crivelli. In collaboration with Colas Ravey.",
             "description": "CHeer is a magazine that celebrates and highlights Swiss queer youth. Through personal stories, portraits, and cultural explorations, we give a voice to those who are shaping queer identities today. CHeer is a space for visibility, affirmation, and celebration, where experiences intersect and are shared. Because queer youth deserve to be heard, because stories are diverse, complex, and luminous, this magazine exists to document, inspire, and bring people together.",
             "link": ""
-            },
-            {
+        },
+        {
             "photos": [
-                "2025/Aurele_Sack-3CVDG-S-1-2025/noaj_td-01.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-3CVDG-S-1-2025/thumbnailnoaj_td-08.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-3CVDG-S-1-2025/noaj_td-02.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-3CVDG-S-1-2025/noaj_td-09.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-3CVDG-S-1-2025/noaj_td-03.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-3CVDG-S-1-2025/noaj_td-04.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-3CVDG-S-1-2025/noaj_td-05.jpg__0x1280_q85_subsampling-2.jpg",
-                "2025/Aurele_Sack-3CVDG-S-1-2025/noaj_td-07.jpg__0x1280_q85_subsampling-2.jpg"
+                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Thumbnail_Dys_Repros_1.jpg",
+                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_7.jpg",
+                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_2.jpg",
+                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_8.jpg",
+                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_3.jpg",
+                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_4.jpg",
+                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_5.jpg",
+                "images/projects/2025/Aurele_Sack-3CVDG-S-1-2025/Dys_Repros_6.jpg"
             ],
             "title": "Dys Typeface",
             "slug": "dys-typeface",
@@ -1100,21 +1080,19 @@
         },
         {
             "photos": [
-                "2025/jon_hares_3CVDGS1/Thumbnailcover.jpg",
-                "2025/jon_hares_3CVDGS1/inside_2.jpg",
-                "2025/jon_hares_3CVDGS1/hand_2.jpg",
-                "2025/jon_hares_3CVDGS1/inside_1.jpg",
-                "2025/jon_hares_3CVDGS1/close-up_1.jpg",
-                "2025/jon_hares_3CVDGS1/IMG_5563.jpg",
-                "2025/jon_hares_3CVDGS1/inside_3.jpg",
-                "2025/jon_hares_3CVDGS1/hand_3.jpg",
-                "2025/jon_hares_3CVDGS1/inside_4.jpg",
-                "2025/jon_hares_3CVDGS1/close-up_2.jpg",
-                "2025/jon_hares_3CVDGS1/inside_5.jpg",
-                "2025/jon_hares_3CVDGS1/IMG_5573.jpg",
-                "2025/jon_hares_3CVDGS1/inside_6.jpg",
-                "2025/jon_hares_3CVDGS1/inside_7.jpg"
-               
+                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_1.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_2.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros__hand_1.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_3.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_close-up_1",
+                "images/projects/2025/jon_hares_3CVDGS1/Architecture_serigraphie_1.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_4.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_5.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Architecture_Repros_close-up_2",
+                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_6.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Architecture_serigraphie_2",
+                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_7.jpg",
+                "images/projects/2025/jon_hares_3CVDGS1/Thumbnail_Architecture_Repros_8.jpg"
             ],
             "title": "Making Architecture Beautiful Again",
             "slug": "making-architecture-beautiful-again",
@@ -1126,11 +1104,11 @@
         },
         {
             "photos": [
-                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/ThumbnailAntigelposter_1_creditsMarvinMerkel.jpg",
-                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/577A8734.jpg",
-                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigelposter_7_creditsmarvinMerkel.jpg",
-                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/577A8758.jpg",
-                "2025/ANTIGEL_Adeline_mollard_2cvDG_S1/mockup_video.mp4"
+                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/ThumbnailAntigelposter_creditsMarvinMerkel.jpg",
+                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_Poster_rue_1.jpg",
+                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigelposter_creditsmarvinMerkel.jpg",
+                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_Poster_rue_2.jpg",
+                "images/projects/2025/ANTIGEL_Adeline_mollard_2cvDG_S1/Antigel_mockup_video.mp4"
             ],
             "title": "Variety of Connecions",
             "slug": "variety-of-connecions",
@@ -1141,10 +1119,7 @@
             "link": "https://www.instagram.com/p/DQG6je2jMQf/"
         }
     ],
-
     "maybe_projects": [
-        {
-           
-        }
+        {}
     ]
 }

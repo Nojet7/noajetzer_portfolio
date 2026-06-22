@@ -11,7 +11,7 @@ export default defineNuxtConfig({
         { name: 'description', content: 'Portfolio website for Noa Jetzer' }
       ],
       link: [
-        { rel: 'icon', type: 'image/svg', href: '/N.svg' },
+        { rel: 'icon', type: 'image/jpeg', href: '/Favicon.jpeg' },
       ],
     }
   },

@@ -202,6 +202,10 @@ footer {
     font-size: 0.7em;
 }
 
+footer a {
+    text-decoration: none;
+}
+
 @media (max-width: 784px) {
     .desktop-portfolio-container {
         display: none;

@@ -16,6 +16,11 @@ export default defineNuxtConfig({
     }
   },
   css: ['~/assets/css/main.css'],
+  runtimeConfig: {
+    public: {
+      cloudinaryCloudName: process.env.NUXT_PUBLIC_CLOUDINARY_CLOUD_NAME
+    }
+  },
   ssr: true,       
   nitro: {
     preset: "static",

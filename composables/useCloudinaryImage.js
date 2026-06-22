@@ -4,7 +4,6 @@ export const useCloudinaryImage = () => {
   async function resolve(filename) {
     if (!filename) return null
     let cloudinaryUrl = ""
-    console.log(filename)
     if(filename.includes("mp4")){
       cloudinaryUrl = `https://res.cloudinary.com/${config.public.cloudinaryCloudName}/video/upload/${filename.replace(/\.[^.]+$/, '')}`
     } else {

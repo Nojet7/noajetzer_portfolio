@@ -8,10 +8,12 @@ export default defineNuxtConfig({
     head: {
       title: 'Noa Jetzer',
       meta: [
-        { name: 'description', content: 'Portfolio website for Noa Jetzer' }
+        { name: 'description', content: 'Portfolio website for Noa Jetzer' }      ],      link: [        { rel: 'icon', type: 'image/jpeg', href: '/Favicon.jpeg' },        { rel: 'icon', type: 'image/svg+xml', href: '/O.svg' },
+
+
       ],
       link: [
-        { rel: 'icon', type: 'image/jpeg', href: '/Favicon.jpeg' },
+        { rel: 'icon', type: 'image/jpeg', href: '/Favicon.svg' },
       ],
     }
   },

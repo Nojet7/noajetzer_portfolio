@@ -110,8 +110,8 @@ async function preloadThumbnails() {
         <section class="mobile-portfolio-container">
             <div class="column-mobile-container">
                 <div v-for="(project) in projects" :key="project.slug" class="mobile-project-card-container">
-                    <nuxt-link :to="`/projects/${project.slug}`" :class="project - card - thumbnail - container">
-                        <img class="project-card-thumbnail" loading="lazy" :src="project.photos[0]"
+                    <nuxt-link :to="`/projects/${project.slug}`" class="project-card-thumbnail-container">
+                        <img class="project-card-thumbnail" loading="lazy" :src="thumbnails[project.slug]"
                             :alt="project.title">
                     </nuxt-link>
                     <nuxt-link :to="`/projects/${project.slug}`">

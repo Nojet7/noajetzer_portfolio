@@ -33,7 +33,7 @@ const prev = () => {
 const currentSrc = computed(() => imageUrls.value[currentIndex.value])
 
 const isVideo = computed(() =>
-  /\.(mp4|mov|webm)$/i.test(currentSrc.value)
+  currentSrc.value?.includes('video')
 )
 
 /* -------------- READ MORE -------------------- */

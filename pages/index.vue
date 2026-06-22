@@ -34,7 +34,9 @@ onMounted(async () => {
     updateClock()
     intervalId = setInterval(updateClock, 1000)
 
-    await preloadThumbnails()
+    if (Object.keys(thumbnails.value).length === 0) {
+        await preloadThumbnails()
+    }
 })
 onUnmounted(() => {
     clearInterval(intervalId)
@@ -58,9 +60,12 @@ async function getImage(src) {
     return url
 }
 
-const thumbnails = ref({})
+const thumbnails = useState('thumbnails', () => ({}))
 async function preloadThumbnails() {
     const all = projects.value.map(async (p) => {
+
+        if (thumbnails.value[p.slug]) return
+
         const src = p.photos[0]
         const url = await getImage(src)
 

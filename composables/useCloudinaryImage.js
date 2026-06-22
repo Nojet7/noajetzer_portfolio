@@ -1,21 +1,14 @@
 export const useCloudinaryImage = () => {
   const config = useRuntimeConfig()
 
-  async function resolve(filename) {
+  function resolve(filename) {
     if (!filename) return null
-    let cloudinaryUrl = ""
-    if(filename.includes("mp4")){
-      cloudinaryUrl = `https://res.cloudinary.com/${config.public.cloudinaryCloudName}/video/upload/${filename.replace(/\.[^.]+$/, '')}`
-    } else {
-      cloudinaryUrl = `https://res.cloudinary.com/${config.public.cloudinaryCloudName}/image/upload/${filename.replace(/\.[^.]+$/, '')}`
+
+    if (filename.includes('mp4')) {
+      return `https://res.cloudinary.com/${config.public.cloudinaryCloudName}/video/upload/${filename.replace(/\.[^.]+$/, '')}`
     }
 
-    try {
-      const res = await fetch(cloudinaryUrl, { method: 'HEAD' })
-      if (res.ok) return cloudinaryUrl
-    } catch {
-      console.log("woops")
-    }
+    return `https://res.cloudinary.com/${config.public.cloudinaryCloudName}/image/upload/${filename.replace(/\.[^.]+$/, '')}`
   }
 
   return { resolve }

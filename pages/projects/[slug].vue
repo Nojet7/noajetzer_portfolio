@@ -30,7 +30,10 @@ const prev = () => {
     (currentIndex.value - 1 + images.length) % images.length
 }
 
-const currentSrc = computed(() => imageUrls.value[currentIndex.value])
+const currentSrc = computed(() => {
+  if (!isReady.value) return null
+  return imageUrls.value[currentIndex.value]
+})
 
 const isVideo = computed(() =>
   currentSrc.value?.includes('video')
@@ -67,17 +70,10 @@ const imageUrls = ref([])
 const isReady = ref(false)
 
 async function preloadImages() {
-  const promises = project.photos.map(async (src) => {
-    const url = await resolveImage(src)
+  imageUrls.value = await Promise.all(
+    project.photos.map(src => resolveImage(src))
+  )
 
-    // preload réel navigateur
-    const img = new Image()
-    img.src = url
-
-    return url
-  })
-
-  imageUrls.value = await Promise.all(promises)
   isReady.value = true
 }
 </script>
@@ -88,12 +84,32 @@ async function preloadImages() {
       <button id="prev-image" class="arrow-btn" @click="prev()"><span class="arrow arrow-left"></span></button>
 
       <div class="viewport">
-        <transition-group :name="direction === 'next' ? 'slide' : 'slide-prev'" tag="div" class="track">
-          <img v-if="!isVideo" class="project-image" :src="currentSrc" :alt="project.title" :key="currentIndex" />
-          <video v-if="isVideo" class="project-image" :src="currentSrc" :alt="project.title" :key="currentIndex" autoplay
-            playsinline muted loop></video>
-        </transition-group>
-      </div>
+  <transition-group
+    v-if="isReady"
+    :name="direction === 'next' ? 'slide' : 'slide-prev'"
+    tag="div"
+    class="track"
+  >
+    <img
+      v-if="!isVideo"
+      class="project-image"
+      :src="currentSrc"
+      :alt="project.title"
+      :key="currentIndex"
+    />
+
+    <video
+      v-if="isVideo"
+      class="project-image"
+      :src="currentSrc"
+      :key="currentIndex"
+      autoplay
+      playsinline
+      muted
+      loop
+    />
+  </transition-group>
+</div>
 
       <button id="next-image" class="arrow-btn" @click="next()"><span class="arrow arrow-right"></span></button>
 
@@ -126,6 +142,7 @@ async function preloadImages() {
   justify-content: space-between;
   align-items: center;
   transition: 0.6s ease;
+  position: relative;
 }
 
 .image-carousel {
@@ -228,17 +245,21 @@ video::-webkit-media-controls-fullscreen-button {
 }
 
 .arrow-btn {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 20%;
   background: none;
   border: none;
-  z-index: 1;
-  width: 5vmin;
-  height: 5vmin;
+  z-index: 10;
+  cursor: pointer;
   display: flex;
+  align-items: center;
 }
 
 .arrow {
-  width: 100%;
-  height: 100%;
+  width: 5vmin;
+  height: 5vmin;
   box-sizing: border-box;
   position: relative;
   display: block;
@@ -256,12 +277,17 @@ video::-webkit-media-controls-fullscreen-button {
 }
 
 #prev-image {
-  left: 4em;
+  left: 0;
+  justify-content: flex-start;
+  padding-left: 4em;
 }
 
 #next-image {
-  right: 4em;
+  right: 0;
+  justify-content: flex-end;
+  padding-right: 4em;
 }
+
 
 .arrow-left {
   transform: rotate(-135deg);

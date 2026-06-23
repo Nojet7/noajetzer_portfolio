@@ -84,35 +84,15 @@ async function preloadImages() {
       <button id="prev-image" class="arrow-btn" @click="prev()"><span class="arrow arrow-left"></span></button>
 
       <div class="viewport">
-  <transition-group
-    v-if="isReady"
-    :name="direction === 'next' ? 'slide' : 'slide-prev'"
-    tag="div"
-    class="track"
-  >
-    <img
-      v-if="!isVideo"
-      class="project-image"
-      :src="currentSrc"
-      :alt="project.title"
-      :key="currentIndex"
-    />
+        <transition-group v-if="isReady" :name="direction === 'next' ? 'slide' : 'slide-prev'" tag="div" class="track">
+          <img v-if="!isVideo" class="project-image" :src="currentSrc" :alt="project.title" :key="currentIndex" />
 
-    <video
-      v-if="isVideo"
-      class="project-image"
-      :src="currentSrc"
-      :key="currentIndex"
-      autoplay
-      playsinline
-      muted
-      loop
-    />
-  </transition-group>
-</div>
+          <video v-if="isVideo" class="project-image" :src="currentSrc" :key="currentIndex" autoplay playsinline muted
+            loop />
+        </transition-group>
+      </div>
 
       <button id="next-image" class="arrow-btn" @click="next()"><span class="arrow arrow-right"></span></button>
-
       <button id="close-projects-overlay" class="close-btn" @click="$router.back()">Close</button>
     </div>
     <p class="description-project-photoView">{{ project.title }}, {{ project.date }}, {{ project.category }}</p>
@@ -153,9 +133,11 @@ async function preloadImages() {
 
 .viewport {
   overflow: hidden;
-  width: 100%;
+  width: calc(100% - 10vmin);
   height: 100%;
   position: relative;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .track {
@@ -224,7 +206,7 @@ video::-webkit-media-controls-fullscreen-button {
   background: none;
   border: none;
   color: #888;
-  z-index: 1;
+  z-index: 3;
   position: fixed;
   right: 2em;
   top: 1em;
@@ -251,8 +233,7 @@ video::-webkit-media-controls-fullscreen-button {
   width: 20%;
   background: none;
   border: none;
-  z-index: 10;
-  cursor: pointer;
+  z-index: 2;
   display: flex;
   align-items: center;
 }
@@ -279,13 +260,11 @@ video::-webkit-media-controls-fullscreen-button {
 #prev-image {
   left: 0;
   justify-content: flex-start;
-  padding-left: 4em;
 }
 
 #next-image {
   right: 0;
   justify-content: flex-end;
-  padding-right: 4em;
 }
 
 
